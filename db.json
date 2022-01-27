@@ -1,0 +1,18 @@
+{
+  "clientes": [
+    {
+      "nombre": "jhon einsteing",
+      "email": "jhon@gmail.com",
+      "telefono": "39230311",
+      "empresa": "empresa",
+      "id": 27
+    },
+    {
+      "nombre": "juann",
+      "email": "juan@gmail.com",
+      "telefono": "3423224",
+      "empresa": "Empresa",
+      "id": 28
+    }
+  ]
+}
